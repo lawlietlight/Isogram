@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_message.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_message.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_progress.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_progress.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_list_item.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_list_item.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_button_separator.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_button_separator.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_datepicker.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_datepicker.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_list.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_list.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_button_panel.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_button_panel.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_title.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_title.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_button.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_button.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_custom.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_custom.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_part_timepicker.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_part_timepicker.xml"
+    }
+]

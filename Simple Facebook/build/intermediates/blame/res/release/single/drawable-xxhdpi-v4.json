@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\CowsAndBulls\\Simple Facebook\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_like_background_selected.png",
+        "source": "F:\\CowsAndBulls\\facebook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\Simple Facebook\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\CowsAndBulls\\facebook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\Simple Facebook\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_like_background.png",
+        "source": "F:\\CowsAndBulls\\facebook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\Simple Facebook\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_like_pressed.png",
+        "source": "F:\\CowsAndBulls\\facebook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\Simple Facebook\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\com_facebook_button_like_icon.png",
+        "source": "F:\\CowsAndBulls\\facebook\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon.png"
+    }
+]

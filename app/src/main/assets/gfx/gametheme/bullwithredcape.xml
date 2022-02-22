@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bullwithredcape.png" type="bitmap" width="518" height="776" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:9b30a9d3ca3faf78f78c06a5bb5cc2d3:1b4ebb07d3d62809213ccd2e1dc1007b:4afea59b426bc1621c4bb7ac919619e7$ -->
+    <textureregion id="0" src="bullwithcape1.png" x="2" y="2" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="1" src="bullwithcape2.png" x="260" y="2" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="2" src="bullwithcape3.png" x="2" y="260" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="3" src="bullwithcape4.png" x="260" y="260" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="4" src="bullwithcape5.png" x="2" y="518" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="5" src="bullwithcape6.png" x="260" y="518" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    
+        
+    
+    
+    <textureregion id="6" src="bullwithcape7.png" x="2" y="518" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="7" src="bullwithcape8.png" x="260" y="260" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="8" src="bullwithcape9.png" x="2" y="260" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+    <textureregion id="9" src="bullwithcape10.png" x="260" y="2" width="256" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="256"/>
+</texture>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id_g">722197114263</string>
+  <string name="achievement_protostar">CgkIl9u1soIVEAIQAQ</string>
+  <string name="achievement_average_star">CgkIl9u1soIVEAIQAg</string>
+  <string name="achievement_red_giant">CgkIl9u1soIVEAIQAw</string>
+  <string name="achievement_intellectual_star">CgkIl9u1soIVEAIQBA</string>
+  <string name="achievement_superior_star">CgkIl9u1soIVEAIQBQ</string>
+  <string name="achievement_supernova">CgkIl9u1soIVEAIQBg</string>
+  <string name="achievement_star_of_synapses">CgkIl9u1soIVEAIQBw</string>
+  <string name="achievement_precocious_star">CgkIl9u1soIVEAIQCA</string>
+  <string name="leaderboard_word_iq_leaderboard">CgkIl9u1soIVEAIQCg</string>
+  <string name="leaderboard_word_leaderboard">CgkIl9u1soIVEAIQCQ</string>
+  
+</resources>

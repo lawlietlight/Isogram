@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="dailychallenge.png" type="bitmap" width="518" height="848" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:54b344cb86ea863626027288d3d6464f:f214435a919dd5d3407097b212b40b40:fb91986b7399e90ac2123cddf265c2ea$ -->
+    <textureregion id="0" src="challenge1.png" x="2" y="2" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="1" src="challenge2.png" x="260" y="2" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="2" src="challenge3.png" x="2" y="284" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="3" src="challenge4.png" x="260" y="284" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="4" src="challenge5.png" x="2" y="566" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="5" src="challenge6.png" x="260" y="566" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="6" src="challenge7.png" x="2" y="566" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="7" src="challenge8.png" x="260" y="284" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="8" src="challenge9.png" x="2" y="284" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    <textureregion id="9" src="challenge10.png" x="260" y="2" width="256" height="280" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="280"/>
+    
+</texture>
+    

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word</string>
+    <string name="action_settings">Settings</string>
+     <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="game_welcome_bck">Welcome to <b>Word</b>", This Game is offered free of cost with minimalistic in-game advertising respecting people\'s frustration on in-game ads, We are sure you would love to play this game, Refer it to your friends and Do Like us on Facebook giving us fuel to an extra mile in continuously supporting this game. Guess what. The more you play the lesser the in-game ads gets and It\'ll be free without in-Game Ads forever for those who refer 3 of their friends. XD</string>
+    <string name="game_welcome">Welcome to <b>Word</b>", <b>71<sup><small>st</small></sup> Indian Independence Day Release Special</b> - Play For Free Without In-Game Ads! \n\nWe are sure you would love to play this game, Refer it to your friends and Do Like us on Facebook giving us fuel to an extra mile in continuously supporting this game.  </string>
+
+    <string name="game_excite_users">"Word" tests your normal to expert code breaking ability. Are you intelligent enough? Let the rest of the World know it! Let\'s Play Word with the World.
+        		Don\'t worry, your reasoning skills will get tuned cumulatively and your English vocabulary will improve with level difficulty. \n\ \n\ NOTE: Contact\'s email ids are used for game invitation purposes only</string>
+        		
+    <string name="game_how_to_play">This should be a good one time read on how to play!!!
+       A person thinks of a word(ISOGRAM - A word with all unique letters), &amp; hosts the word for guessing. 
+       You will be provided with the number of letters in the word. 
+       You and every other player in the same room will start making guesses,
+       the number of Cows &amp; Bulls in the word will be given for each guess. \n\n
+       
+Cows - The guessed word has letter/letters from the word hosted but at different positions.\n
+Bulls - The guessed word has letters at the same position of the word that has been thought.\n\n
+
+
+e.g. Say host thinks of a word "BOAT", hosts it and everyone else starts making their guesses.
+You guess: "ENVY"
+App will answer you as follows: COWS=0 (No similar letters at all) BULLS=0 (No letters in the same position)
+
+You guess: "TOAD"
+COWS-1 (Since the letter \'T\' is present in hosted word,but at different position than the word hosted, i.e. in the word "BOAT", the letter \'T\' is at  4th spot whereas it\'s at 1st position in word guessed.)
+BULLS-2 (Since the letters \'O\' and \'A\' are present at the exact same positions as that of the word hosted)
+
+Winner would be the one who gets it right (All BULLS). **BULLSEYE**</string>
+    <string name="host_guess_text_default">Host Word </string>
+    <string name="continue_button">Continue</string>
+    <string name="guest_button">Guest</string>
+	<string name="sign_out_button">Sign Out</string>
+	<string name="dialog_benchmark_submit_title">Loading Ads...</string>
+	<string name="dialog_benchmark_submit_message">Please wait a moment...</string>
+	<string name="facebook_app_id">1571223996439841</string>
+	<string name="title_facebook_login">Invite Facebook friends</string>
+	<string name="FB_Login">Login</string>
+	<string name="main_empty_list">There is no recent conversation, write new message
+		to start one.</string>
+</resources>

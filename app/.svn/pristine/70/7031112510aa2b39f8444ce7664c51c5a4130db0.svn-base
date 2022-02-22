@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"   xmlns:tools="http://schemas.android.com/tools"
+    package="com.efficientsciences.cowsandbulls.wordwars"
+    android:installLocation="auto"
+    android:versionCode="36"
+    android:versionName="1.36" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    
+    <uses-feature android:glEsVersion="0x00020000" />
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="25" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" android:xlargeScreens="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"  android:largeHeap="true" android:isGame="true" tools:replace="android:icon,label" android:name="android.support.multidex.MultiDexApplication" >
+        <!-- <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id" />
+        -->
+             <meta-data
+            android:name="com.google.android.gms.games.APP_ID"
+            android:value="@string/app_id_release" />
+        
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <!--
+        
+        -->
+		<provider
+        android:name="com.facebook.NativeAppCallContentProvider"
+        android:authorities="com.facebook.app.NativeAppCallContentProvider1571223996439841"
+        android:exported="true" />
+
+        <receiver android:name="com.efficientsciences.cowsandbulls.wordwars.CancelNotifyReceiver"/>
+        <receiver
+            android:name="com.efficientsciences.cowsandbulls.wordwars.ReferrerBroadcastReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <!-- <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver> -->
+		<receiver android:name=".AutoBootService">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.REBOOT"/>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+   		 android:name="com.facebook.LoginActivity"
+   		 android:label="@string/title_facebook_login" >
+		</activity>
+		 <activity
+            android:name=".graphics.minigame.EarnCoinsMiniGame"
+            android:configChanges="orientation|screenLayout|uiMode|screenSize|smallestScreenSize|mcc|mnc"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/Theme.NoBackground" android:launchMode = "singleTop">
+        </activity>
+        <activity
+            android:name=".HowToPlayImageActivity"
+            android:configChanges="orientation|screenLayout|uiMode|screenSize|smallestScreenSize|mcc|mnc"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/Theme.NoBackground" android:launchMode = "singleTop">
+        </activity>
+        
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenLayout|uiMode|screenSize|smallestScreenSize|mcc|mnc"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/Theme.NoBackground" android:launchMode = "singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginSign"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Ads -->
+        <!-- StartApp Ads Activity Start -->
+       <!-- <activity
+            android:name="com.startapp.android.publish.list3d.List3DActivity"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.startapp.android.publish.AppWallActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.Translucent" />-->
+        <!-- StartApp Ads Activity End -->
+
+
+        <!-- Admob -->
+<!--         <activity
+            android:name="com.google.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" >
+        </activity> -->
+
+        <!-- Vungle -->
+        <activity
+            android:name="com.vungle.publisher.FullScreenAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
+
+        <service android:name="com.efficientsciences.cowsandbulls.wordwars.chat.MultiWindow" >
+        </service>
+        <service android:name="com.efficientsciences.cowsandbulls.wordwars.chat.WidgetsWindow" >
+        </service>
+        
+        <service android:name="com.efficientsciences.cowsandbulls.wordwars.services.IMService" >
+        </service>
+        
+    </application>
+
+</manifest>

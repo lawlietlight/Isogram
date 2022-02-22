@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:18:5-35
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:17:11-69
+application
+ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml:20:5-20
+uses-sdk
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\Simple Facebook\AndroidManifest.xml

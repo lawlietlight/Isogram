@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="happybee.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+   <textureregion id="0" src="happybee1.png" x="338" y="154" width="150" height="150" rotated="false" trimmed="true" srcx="28" srcy="22" srcwidth="256" srcheight="256"/>
+    <textureregion id="1" src="happybee2.png" x="338" y="2" width="164" height="150" rotated="false" trimmed="true" srcx="25" srcy="22" srcwidth="256" srcheight="256"/>
+    <textureregion id="2" src="happybee3.png" x="2" y="2" width="168" height="154" rotated="false" trimmed="true" srcx="25" srcy="18" srcwidth="256" srcheight="256"/>
+    <textureregion id="3" src="happybee4.png" x="172" y="2" width="164" height="154" rotated="false" trimmed="true" srcx="26" srcy="18" srcwidth="256" srcheight="256"/>
+    <textureregion id="4" src="happybee5.png" x="2" y="2" width="168" height="154" rotated="false" trimmed="true" srcx="25" srcy="18" srcwidth="256" srcheight="256"/>
+    <textureregion id="5" src="happybee6.png" x="338" y="2" width="164" height="150" rotated="false" trimmed="true" srcx="25" srcy="22" srcwidth="256" srcheight="256"/>
+</texture>

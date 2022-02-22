@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml:18:1-21:12
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml:18:1-21:12
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml:18:1-21:12
+	package
+		ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml:19:7-37
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml:18:11-69
+application
+ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml:20:5-19
+uses-sdk
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\facebook\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\facebook\AndroidManifest.xml

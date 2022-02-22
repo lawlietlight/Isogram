@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\sdl_primary_text_holo_dark.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\color\\sdl_primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\sdl_primary_text_holo_light.xml",
+        "source": "F:\\CowsAndBulls\\wallet\\build\\intermediates\\bundles\\debug\\res\\color\\sdl_primary_text_holo_light.xml"
+    }
+]

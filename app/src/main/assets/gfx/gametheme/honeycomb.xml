@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="honeycomb.png" type="bitmap" width="656" height="620" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:debd61b0b2f5bc0e7651deb1b161f034:a7af793a00bbd29e08872de852f553f4:c7ae55fe462fbd34c16a70d148d4d189$ -->
+    <textureregion id="0" src="HONEYCOMB1.png" x="2" y="2" width="325" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="325" srcheight="307"/>
+    <textureregion id="1" src="HONEYCOMB2.png" x="329" y="2" width="325" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="325" srcheight="307"/>
+    <textureregion id="2" src="HONEYCOMB3.png" x="2" y="311" width="325" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="325" srcheight="307"/>
+    <textureregion id="3" src="HONEYCOMB5.png" x="329" y="311" width="325" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="325" srcheight="307"/>
+</texture>

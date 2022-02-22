@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="lights.png" type="bitmap" width="806" height="484" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:0f20eeefbfe906ef7b2707a462bfb9c9:664dce6c92922e8c2ae56b9237530e00:bf4ac15459f8533ce94d989f9b4b853e$ -->
+    <textureregion id="0" src="stringl1.png" x="2" y="2" width="400" height="239" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="239"/>
+    <textureregion id="1" src="stringl2.png" x="404" y="2" width="400" height="239" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="239"/>
+    <textureregion id="2" src="stringl3.png" x="2" y="243" width="400" height="239" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="239"/>
+    <textureregion id="3" src="stringl4.png" x="404" y="2" width="400" height="239" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="400" srcheight="239"/>
+</texture>

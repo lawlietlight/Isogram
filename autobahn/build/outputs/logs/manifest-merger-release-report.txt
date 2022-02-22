@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:3:7-36
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:4:31-56
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+application
+ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:6:5-57
+	android:label
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml:6:18-42
+uses-sdk
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		ADDED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml
+		INJECTED from F:\CowsAndBulls\autobahn\src\main\AndroidManifest.xml

@@ -1,0 +1,100 @@
+<resources>
+	<color name="AccentColor">#cc0000</color>
+	<color name="GreenColor">#01cb00</color>
+	<color name="DarkYellowColor">#01a501</color>
+    <color name="PopupColor">@color/AccentColor</color>
+    <color name="PopupTextColor">#ffffff</color>
+    <color name="ButtonTextColor">#ffffff</color>
+    <color name="BlurbColor">#a0a0a0</color>
+    <color name="SignOutButtonBackground">#e0e0e0</color>
+    <color name="SignOutButtonTextColor">#404040</color>
+    <dimen name="TitleSize">30sp</dimen>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+	</style>
+	
+      
+    <style name="CustomDialogTheme" parent="Theme.NoBackground">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+   		<item name="sdlDialogStyle">@style/DialogStyleLight.Custom</item>
+	</style>
+
+	<style name="DialogStyleLight.Custom">
+		<!-- anything can be left out: -->
+		<item name="titleTextColor">@color/dialog_title_text</item>
+		<item name="titleSeparatorColor">@color/dialog_title_separator</item>
+		<item name="messageTextColor">@color/dialog_message_text</item>
+		<item name="buttonTextColor">@color/dialog_button_text</item>
+		<item name="buttonSeparatorColor">@color/dialog_button_separator</item>
+		<item name="buttonBackgroundColorNormal">@color/dialog_button_normal</item>
+		<item name="buttonBackgroundColorPressed">@color/dialog_button_pressed</item>
+		<item name="buttonBackgroundColorFocused">@color/dialog_button_focused</item>
+		<item name="listItemSeparatorColor">@color/dialog_button_separator</item>
+		<item name="listItemColorNormal">@color/dialog_button_normal</item>
+		<item name="listItemColorPressed">@color/dialog_button_pressed</item>
+		<item name="listItemColorFocused">@color/dialog_button_focused</item>
+	</style>
+    
+     <style name="GameScreen">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center</item>
+        
+    </style>
+    <style name="LLScreen" parent="@style/GameScreen">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">left</item>
+        <item name="android:padding">30dp</item>
+    </style>
+    <style name="GameTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/game_welcome</item>
+        <item name="android:textColor">@color/AccentColor</item>
+        <item name="android:textSize">@dimen/TitleSize</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+    <style name="Blurb">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/BlurbColor</item>
+                <item name="android:layout_marginBottom">5dp</item>
+        
+    </style>
+
+    <style name="GameBlurb" parent="@style/Blurb">
+        <item name="android:text">@string/game_excite_users</item>
+                <item name="android:layout_marginBottom">5dp</item>
+        
+        
+    </style>
+
+     <style name="HowToPlay" parent="@style/Blurb">
+        <item name="android:text">@string/game_how_to_play</item>
+    </style>
+    <style name="SignInButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <style name="Theme.NoBackground" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    
+    
+</resources>

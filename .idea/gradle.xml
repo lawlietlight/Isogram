@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Facebook" />
+            <option value="$PROJECT_DIR$/andEngine" />
+            <option value="$PROJECT_DIR$/andEnginePhysicsBox2DExtension" />
+            <option value="$PROJECT_DIR$/andEngineTexturePackerExtension" />
+            <option value="$PROJECT_DIR$/androidwebsocketsmaster" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autobahn" />
+            <option value="$PROJECT_DIR$/facebook" />
+            <option value="$PROJECT_DIR$/standOut" />
+            <option value="$PROJECT_DIR$/wallet" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

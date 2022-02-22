@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="playnew_icon2.png" type="bitmap" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <textureregion id="0" src="playnew0.png" x="2" y="135" width="400" height="131" rotated="false" trimmed="true" srcx="406" srcy="121" srcwidth="1200" srcheight="375"/>
+    <textureregion id="1" src="playnew1.png" x="2" y="399" width="400" height="129" rotated="false" trimmed="true" srcx="404" srcy="122" srcwidth="1200" srcheight="375"/>
+    <textureregion id="2" src="playnew2.png" x="2" y="659" width="400" height="127" rotated="false" trimmed="true" srcx="402" srcy="123" srcwidth="1200" srcheight="375"/>
+    <textureregion id="3" src="playnew3.png" x="2" y="788" width="400" height="125" rotated="false" trimmed="true" srcx="400" srcy="124" srcwidth="1200" srcheight="375"/>
+    <textureregion id="4" src="playnew4.png" x="2" y="530" width="400" height="127" rotated="false" trimmed="true" srcx="398" srcy="123" srcwidth="1200" srcheight="375"/>
+    <textureregion id="5" src="playnew5.png" x="2" y="268" width="400" height="129" rotated="false" trimmed="true" srcx="396" srcy="122" srcwidth="1200" srcheight="375"/>
+    <textureregion id="6" src="playnew6.png" x="2" y="2" width="400" height="131" rotated="false" trimmed="true" srcx="394" srcy="121" srcwidth="1200" srcheight="375"/>
+    
+        <textureregion id="7" src="playnew5 - Copy.png" x="2" y="268" width="400" height="129" rotated="false" trimmed="true" srcx="396" srcy="122" srcwidth="1200" srcheight="375"/>
+    
+        <textureregion id="8" src="playnew4 - Copy.png" x="2" y="530" width="400" height="127" rotated="false" trimmed="true" srcx="398" srcy="123" srcwidth="1200" srcheight="375"/>
+    
+        <textureregion id="9" src="playnew3 - Copy.png" x="2" y="788" width="400" height="125" rotated="false" trimmed="true" srcx="400" srcy="124" srcwidth="1200" srcheight="375"/>
+    
+        <textureregion id="10" src="playnew2 - Copy.png" x="2" y="659" width="400" height="127" rotated="false" trimmed="true" srcx="402" srcy="123" srcwidth="1200" srcheight="375"/>
+    
+</texture>
+    

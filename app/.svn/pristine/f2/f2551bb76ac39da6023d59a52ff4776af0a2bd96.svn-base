@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bull.png" type="bitmap" width="526" height="406" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:40a36d14a003fb39a1acceede81357d5:a0162e0eca733c2fbb19142e458f74fb:dcd7b3ec15927e62ee0a2ca5e204265e$ -->
+    <textureregion id="0" src="bul4l_01.png" x="2" y="2" width="257" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="257" srcheight="200"/>
+    <textureregion id="1" src="bul4l_02.png" x="261" y="2" width="263" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="263" srcheight="200"/>
+    <textureregion id="2" src="bul4l_03.png" x="2" y="204" width="250" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="250" srcheight="200"/>
+    <textureregion id="3" src="bul4l_04.png" x="254" y="204" width="254" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="200"/>
+</texture>

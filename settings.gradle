@@ -1,0 +1,9 @@
+include ':app', ':facebook', ':Simple Facebook'
+include ':andEngine'
+include ':andEnginePhysicsBox2DExtension'
+include ':andEngineTexturePackerExtension'
+include ':androidwebsocketsmaster'
+include ':autobahn'
+include ':standOut'
+
+include ':wallet'

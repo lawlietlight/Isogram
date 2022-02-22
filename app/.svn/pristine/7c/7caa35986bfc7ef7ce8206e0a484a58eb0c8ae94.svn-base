@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="askhelp.png" type="bitmap" width="710" height="710" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:2d8f47807457a93c50b8e5b7fb742fb2:835dc959a1307a653fb69dcfca50a9b9:5f9aec07095ce8ba5a4733e6d4de420b$ -->
+    <textureregion id="0" src="askhelp2.png" x="2" y="2" width="352" height="352" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="352"/>
+    <textureregion id="1" src="askhelp3.png" x="356" y="2" width="352" height="352" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="352"/>
+    <textureregion id="2" src="askhelp4.png" x="2" y="356" width="352" height="352" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="352"/>
+</texture>

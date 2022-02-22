@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="chat.png" type="bitmap" width="98" height="830" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:5dcd945c84d8c525ef32df33d527177e:328a371fc1f5f43907f77716d7cd39cd:6f3d512519c82b04772d5d7dd4f0bdfc$ -->
+    <textureregion id="0" src="chat_inv.png" x="2" y="2" width="94" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="94" srcheight="274"/>
+    <textureregion id="1" src="chat_invy.png" x="2" y="278" width="94" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="94" srcheight="274"/>
+    <textureregion id="2" src="chat_invz.png" x="2" y="554" width="94" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="94" srcheight="274"/>
+</texture>

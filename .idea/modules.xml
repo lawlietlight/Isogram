@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CowsAndBulls.iml" filepath="$PROJECT_DIR$/CowsAndBulls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Facebook/Simple Facebook.iml" filepath="$PROJECT_DIR$/Simple Facebook/Simple Facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngine/andEngine.iml" filepath="$PROJECT_DIR$/andEngine/andEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" filepath="$PROJECT_DIR$/andEnginePhysicsBox2DExtension/andEnginePhysicsBox2DExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" filepath="$PROJECT_DIR$/andEngineTexturePackerExtension/andEngineTexturePackerExtension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidwebsocketsmaster/androidwebsocketsmaster.iml" filepath="$PROJECT_DIR$/androidwebsocketsmaster/androidwebsocketsmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autobahn/autobahn.iml" filepath="$PROJECT_DIR$/autobahn/autobahn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook/facebook.iml" filepath="$PROJECT_DIR$/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standOut/standOut.iml" filepath="$PROJECT_DIR$/standOut/standOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallet/wallet.iml" filepath="$PROJECT_DIR$/wallet/wallet.iml" />
+    </modules>
+  </component>
+</project>

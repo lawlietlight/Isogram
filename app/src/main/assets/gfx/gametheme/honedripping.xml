@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="honedrippingcartoon.png" type="bitmap" width="930" height="686" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:af800fdde7c6324be3ba8614ebb90024:f3ee03f3b3ef11f6aa381e2f4bfa4ad4:96bb1187b4105b925a9a2d6fffa7e381$ -->
+    <textureregion id="0" src="honeydrippingnew6.png" x="2" y="2" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="1" src="honeydrippingnew7.png" x="234" y="2" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="2" src="honeydrippingnew8.png" x="466" y="2" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="3" src="honeydrippingnewcomp.png" x="698" y="2" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="4" src="honeydrippingnewcomp2.png" x="2" y="344" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="5" src="honeydrippingnewcomp3.png" x="234" y="344" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="6" src="honeydrippingnewcomp4.png" x="466" y="344" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+    <textureregion id="7" src="honeydrippingnewcomp5.png" x="698" y="344" width="230" height="340" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="340"/>
+</texture>

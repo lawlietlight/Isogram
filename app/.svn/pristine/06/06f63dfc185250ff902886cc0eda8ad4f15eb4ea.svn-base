@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:id="@+id/roundedRectGradientReconnect"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+       <gradient android:id = "@+id/toast_color_gradient"
+           android:startColor="#cc00001a"
+              android:endColor="#dd01011d"
+              android:angle="270"/>
+      <corners
+          android:bottomRightRadius="0dp"
+          android:bottomLeftRadius="25dp"
+             android:topLeftRadius="25dp"
+             android:topRightRadius="25dp"/>
+</shape>
